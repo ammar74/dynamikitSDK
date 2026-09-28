@@ -1,0 +1,22 @@
+name: dynamikit
+description: Enterprise Server-Driven UI, Dynamic Paywalls, and Gamification Engine for Flutter.
+version: 1.0.0
+homepage: https://github.com/yourusername/dynamikit
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  shared_preferences: ^2.2.2
+  scratcher: ^2.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
